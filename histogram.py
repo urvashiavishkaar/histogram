@@ -4,7 +4,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-def categorize_response_times(self,data):
+def categorize_response_times(data):
     # Create the histogram using Matplotlib
     plt.figure(figsize=(25, 10))
     # Create the histogram
